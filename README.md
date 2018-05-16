@@ -1,4 +1,5 @@
-# Jsjobs
+# Jsjobs sur [Udemy:formation Angular 4, Node.js et JWT par la pratique]
+(https://www.udemy.com/angular-4-et-nodejs-par-la-pratique)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
