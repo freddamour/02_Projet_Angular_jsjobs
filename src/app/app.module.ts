@@ -9,6 +9,7 @@ import { JobListComponent } from './job-list/job-list.component';
 
 import { HttpClientModule, HttpClientJsonpModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 
 
@@ -22,7 +23,8 @@ import { CommonModule } from '@angular/common';
     BrowserModule,
     CommonModule,
     HttpClientModule,
-    HttpClientJsonpModule
+    HttpClientJsonpModule,
+    NgbModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
